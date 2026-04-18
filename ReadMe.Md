@@ -1,4 +1,4 @@
-Class Project: Reinforcment Learning: Learning to play Ludu using LuduPy (https://github.com/SimonLBSoerensen/LUDOpy) and Yaral Q-Learning for Ludu (https://github.com/NDurocher/YARAL). 
+Class Project: Reinforcment Learning (ECE517 - Fall 2022): Learning to play Ludu using LuduPy (https://github.com/SimonLBSoerensen/LUDOpy) and Yaral Q-Learning for Ludu (https://github.com/NDurocher/YARAL). 
 
 
 
